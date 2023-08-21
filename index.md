@@ -1,0 +1,7 @@
+# Exercise: Start Markdown
+
+These are courses I've taken through Microsoft Learn directly from a mobile browser:
+
+[x] Introduction to Git
+[ ] Introduction to GitHub
+[x] Communicating effectively with GitHub
