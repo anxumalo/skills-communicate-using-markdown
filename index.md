@@ -6,6 +6,15 @@ These are courses I've taken through Microsoft Learn directly from a mobile brow
 [ ] Introduction to GitHub
 [x] Communicating effectively with GitHub
 
+Step 2: Add an image
+
 ![Image of Femalecodercat - courtesy of https://octodex.github.com](https://octodex.github.com/images/femalecodertocat.png)
 
 <!--yogitocat-->
+
+Step 3: Add a code example
+
+```basic
+10 PRINT "YOUR-NAME"
+20 GOTO 10
+```
